@@ -20,11 +20,13 @@
 ## 개선사항
 
 - 코드 최적화
-- React 활용 및 axios 적용 
+- Vanila Scripit 적용
 
 ## 사용기술
 
-- React
-- React Router
-- axios
-- Swiper
+- HTML
+- CSS
+- JS
+- AOS.js
+- Anime.js
+- Swiper.js
